@@ -1,0 +1,16 @@
+{
+  "name": "Mossbrook Quest",
+  "short_name": "Mossbrook",
+  "description": "A board-game RPG for up to five players where math riddles are your power source. Every adventure is a brand-new world.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#12141c",
+  "theme_color": "#12141c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
